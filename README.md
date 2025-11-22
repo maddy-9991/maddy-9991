@@ -10,7 +10,7 @@ const hammad_imran = {
     title: "Engineering Leader & Senior Software Developer",
     location: "Berlin, Germany 🇩🇪",
     currentFocus: ["Scalable SaaS Platforms", "AI Integration", "Team Leadership"],
-    passions: ["Interactive UX", "Modern Web Dev", "Developer Experience"],
+    passions: ["Interactive UX", "Modern Web Dev", "Complex Backend Systems", "Developer Experience"],
     status: "Open to exciting opportunities and collaborations ✨"
 };
 ```

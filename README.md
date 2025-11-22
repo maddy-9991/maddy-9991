@@ -61,7 +61,7 @@ const hammad_imran = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddy-9991&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddy-9991&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=99"/>
 </div>
 
 <!-- <div align="center">
